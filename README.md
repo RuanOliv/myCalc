@@ -3,7 +3,7 @@ Calculadora simples criada com *HTML,* *CSS,* and *JS* Puro (Vanilla JS)
 
 Alterações feitas: Função π, função exponencial, troca da função eval() e substituição de algumas variáveis por constantes.
 
-![Output Snip](https://github.com/karankumar-js/Simple-Calculator/blob/master/assets/output.gif "Resultado esperado")
+![Output Snip](https://github.com/RuanOliv/myCalc/blob/main/assets/Calc.gif "Resultado esperado")
 
 
 
